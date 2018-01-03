@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 .header {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: image("resources/images/the-flatiron-building.png");
 }
 .title {
   font-size: 70px;
@@ -29,7 +29,7 @@ h2 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: image("resources/images/the-flatiron-building.png");
 }
 #footer {
   font-family: Helvetica;
