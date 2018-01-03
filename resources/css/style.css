@@ -2,8 +2,8 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-.header {
-  background-image: url("images/flatiron.png");
+#header {
+  background-image: url("flatiron.png");
 }
 .title {
   font-size: 70px;
@@ -25,11 +25,11 @@ h2 {
 .text {
   font-size: 14px;
 }
-.design {
+#design {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("images/flatiron.png");
+  background-image: url("flatiron.png");
 }
 #footer {
   font-family: Helvetica;
