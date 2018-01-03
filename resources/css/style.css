@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-#header {
+.header {
   background-image:
 url("images/the-flatiron-building.png");
 }
@@ -34,11 +34,7 @@ h3 {
 url("images/the-flatiron-building.png");
 }
 #copyright {
-  font-family: Helvetica;
   font-size: 11px;
-  color: white;
-  background-color: dimgray;
-  text-align: left;
 }
 #link {
   font-family: Helvetica;
